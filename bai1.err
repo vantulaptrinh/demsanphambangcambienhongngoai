@@ -1,0 +1,20 @@
+Compiling D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1 on 29-Oct-23 at 19:17
+>>> Warning 225 "C:\Program Files (x86)\PICC\Drivers\stddef.h" Line 27(13,15): Duplicate #define
+>>> Warning 225 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 10(19,76): Duplicate #define
+>>> Warning 225 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 11(19,31): Duplicate #define
+>>> Warning 225 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 12(23,31): Duplicate #define
+>>> Warning 225 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 13(18,31): Duplicate #define
+>>> Warning 225 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 14(18,31): Duplicate #define
+>>> Warning 225 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 15(18,31): Duplicate #define
+>>> Warning 225 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 16(18,33): Duplicate #define
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_nibble)
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_byte)
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_gotoxy)
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGCN7_856)
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PRINTF_U_856)
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_putc)
+>>> Warning 216 "D:\pic 16f877a\baithuchanh\do an\do an bao cao\bai1.c" Line 260(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGC7_856)
+      Memory usage:   ROM=18%      RAM=9% - 17%
+      0 Errors,  16 Warnings.
+Build Successful.
